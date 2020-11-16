@@ -1,0 +1,23 @@
+﻿{
+  "name": "com.youngpackage.gameutil",
+  "displayName": "GameUtil",
+  "description": "This plugin is utility for unity game development",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "license": "MIT",
+  "keywords": [
+    "Unity",
+    "Util"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youngchangoon/GameUtil.git"
+  },
+  "author": {
+    "name": "Youngchangoon",
+    "email": "youngchangoon521@gmail.com",
+    "url": "https://github.com/Youngchangoon"
+  },
+  "dependencies": {
+  }
+}

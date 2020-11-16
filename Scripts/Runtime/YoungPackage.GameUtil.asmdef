@@ -1,0 +1,8 @@
+﻿{
+  "name": "YoungPackage.GameUtil",
+  "references": [],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false
+}
