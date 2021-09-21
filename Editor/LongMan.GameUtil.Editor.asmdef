@@ -1,0 +1,10 @@
+﻿{
+  "name": "LongMan.GameUtil.Editor",
+  "references": [
+    "LongMan.GameUtil"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false
+}
