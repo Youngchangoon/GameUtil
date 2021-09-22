@@ -2,7 +2,7 @@
   "name": "longman.gameutil",
   "displayName": "GameUtil",
   "description": "This plugin is utility for unity game development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2020.1",
   "license": "MIT",
   "keywords": [
