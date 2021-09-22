@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace LongMan.GameUtil.Extensions
+namespace LongMan.GameUtil
 {
     public static class TransformExtensions
     {

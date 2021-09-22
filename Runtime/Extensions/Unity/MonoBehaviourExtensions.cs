@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace LongMan.GameUtil.Extensions
+namespace LongMan.GameUtil
 {
     public static class MonoBehaviourExtensions
     {

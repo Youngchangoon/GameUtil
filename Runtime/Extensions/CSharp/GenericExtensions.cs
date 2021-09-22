@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace LongMan.GameUtil.Extensions
+namespace LongMan.GameUtil
 {
     public static class GenericExtensions
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UMT;
 
-namespace LongMan.GameUtil.Extensions
+namespace LongMan.GameUtil
 {
     public static class CollectionExtensions
     {
