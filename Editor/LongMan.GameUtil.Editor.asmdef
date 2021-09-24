@@ -1,10 +1,18 @@
-﻿{
-  "name": "LongMan.GameUtil.Editor",
-  "references": [
-    "LongMan.GameUtil"
-  ],
-  "optionalUnityReferences": [],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false
+{
+    "name": "LongMan.GameUtil.Editor",
+    "rootNamespace": "",
+    "references": [
+        "LongMan.GameUtil"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
