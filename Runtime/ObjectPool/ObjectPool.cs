@@ -82,7 +82,7 @@ namespace LongMan.GameUtil
                 newObj.name = _options.ObjectName + _allocCount;
                 newObj.gameObject.SetActive(false);
 
-                _preInitObjectAction?.Invoke(_oriObject);
+                _preInitObjectAction?.Invoke(newObj);
 
                 _poolStack.Push(newObj);
                 ++_allocCount;
